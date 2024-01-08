@@ -1,0 +1,5 @@
+Nume utilizator: Darius
+Greutate: 120 kg
+Înălțime: 1.82 m
+Vârstă: 20 ani
+Greutate dorita: 105 kg
