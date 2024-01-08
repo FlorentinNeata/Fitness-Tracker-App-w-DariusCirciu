@@ -4,8 +4,8 @@ Fitness Tracker App
 *Impreuna am realizat o aplicatie relativ simpla de monitorizare a exercitiilor pe baza crearii unui profil individual al 
 utilizatorului unde acesta poate crea anumite seturi de exercitii, ulterior putand sa le editeze si implicit sa le vizualizeze. 
 
-*Pentru ca un individ sa poata rula individual acest cod trebuie sa se asigure ca are instlat in sistemul de operare Python cu
-biblioteca tkinter instalata pentru a putea crea interfata grafica in acest cod, de asemenea trebuie create doua foldere "exercises" si "profile"
+*Pentru ca un individ sa poata rula individual acest cod trebuie sa se asigure ca are instlat in sistemul de operare Python, sa ruleze "exercitii.py" cu
+biblioteca tkinter instalata("pip install tkinter") pentru a putea crea interfata grafica in acest cod, de asemenea trebuie create doua foldere "exercises" si "profile"
 si modificata calea (ex: "C:\\Users\\Florentin\\Desktop\\python\\profile\\{self.username}_profile.txt") cu una aferenta doritorului.
 
 *Cum am impartit munca?
